@@ -38,6 +38,6 @@ DisasterAlert is my undergraduate capstone project, built entirely solo from con
 
 It is not a tutorial follow-along or a CRUD exercise. Every architectural decision — from choosing Dart Isolates for background processing to merging three live data sources into a unified alert system — was made independently and justified through research and testing.
 
-The test case pass rate reflects a commitment to reliability in a domain where inaccurate information has real consequences.
+The 100% test case pass rate reflects a commitment to reliability in a domain where inaccurate information has real consequences.
 
 It represents the most complete and technically ambitious project I have built, and the one I am most proud of.
