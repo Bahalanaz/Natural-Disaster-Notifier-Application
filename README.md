@@ -1,9 +1,6 @@
 # Natural-Disaster-Notifier-Application
 DisasterAlert is a cross-platform mobile application that delivers real-time disaster alerts across 180+ countries.Built with Flutter and Firebase, it integrates live data from the USGS Earthquake API, NASA EONET v3, and Open-Meteo to monitor and notify users of nearby disasters based on their location Developed as a solo capstone project.
 
-DisasterAlert
-A cross-platform mobile disaster monitoring application built with Flutter and Firebase that delivers real-time alerts for earthquakes, wildfires, and severe weather events across 180+ countries using live data from USGS, NASA EONET, and Open-Meteo APIs.
-
 This project demonstrates real-time API integration, mobile background services, Firebase cloud infrastructure, and production-level state management in a solo capstone build.
 
 🌱 What I Learned
